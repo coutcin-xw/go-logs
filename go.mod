@@ -1,3 +1,3 @@
-module github.com/coutcin-xw/go-logs
+module github.com/coutcin-xw/gologs
 
 go 1.23.2
