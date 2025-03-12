@@ -1,4 +1,4 @@
-package logs
+package gologs
 
 //颜色部分:
 
